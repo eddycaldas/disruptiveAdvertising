@@ -1,0 +1,33 @@
+
+#dialogMsg {
+  font-family: 'Source Sans Pro', sans-serif;
+  display: none;
+  max-width: 40%;
+  border-radius: 0px;
+}
+#code {
+  width: 40%;
+  color: white;
+  background-color: LightSkyBlue;
+}
+#p2, #p1 {
+  line-height: 1px;
+  display: flex;
+  justify-content: center;
+  line-height: 1px;
+}
+#disc-holder {
+  display: flex;
+  justify-content: center;
+  font-size: 140%;
+}
+#p2 {
+  font-size: 250%;
+  font-weight: bolder;
+}
+
+
+
+@media only screen and (max-width: 600px) {  
+
+}
